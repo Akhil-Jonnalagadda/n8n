@@ -141,12 +141,6 @@ To understand n8n fully, you need to know its **core building blocks**. Don’t 
 
 ---
 
-✅ With these basics, you can now picture how n8n actually works.
-
----
-
-
-
 ---
 
 # 📘  How n8n Works Internally
@@ -221,8 +215,6 @@ Example:
 That’s the secret sauce: a mix of simplicity for beginners, but deep flexibility for developers.
 
 ---
-
-
 
 ---
 
@@ -368,9 +360,17 @@ Now let’s see **how to actually build a workflow** in n8n with a simple exampl
 
 ---
 
-👉 Workflows can be simple (2–3 nodes) or very advanced (100+ nodes, with loops, conditions, error handling, and code functions).
+<img width="1460" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a460183-ae74-46ca-899b-fccb61521461" />
 
----
+<img width="2032" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccb8952e-52ee-4498-b02e-4d5e0018a7c8" />
+
+
+<img width="933" height="552" alt="image" src="https://github.com/user-attachments/assets/ef194ac6-348b-49a6-b758-6b4c18ed9da8" />
+
+<img width="640" height="246" alt="image" src="https://github.com/user-attachments/assets/0e199b7e-4e31-48b3-b75d-3e858f5ef590" />
+
+<img width="1102" height="522" alt="image" src="https://github.com/user-attachments/assets/a33cafe3-a067-4908-921d-e50d334e8d24" />
+
 
 
 

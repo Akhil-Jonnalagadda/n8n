@@ -360,15 +360,6 @@ Now let’s see **how to actually build a workflow** in n8n with a simple exampl
 
 ---
 
-<img width="1460" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a460183-ae74-46ca-899b-fccb61521461" />
-
-<img width="2032" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccb8952e-52ee-4498-b02e-4d5e0018a7c8" />
-
-<img width="1102" height="522" alt="image" src="https://github.com/user-attachments/assets/a33cafe3-a067-4908-921d-e50d334e8d24" />
-
-
-
-
 ---
 
 # 📘 Popular Use Cases of n8n
@@ -639,6 +630,9 @@ n8n has grown from a small side project in 2019 to one of the most popular **ope
 
 ---
 
+Sample Workflows:
+
+<img width="1102" height="522" alt="image" src="https://github.com/user-attachments/assets/a33cafe3-a067-4908-921d-e50d334e8d24" />
 
 
 

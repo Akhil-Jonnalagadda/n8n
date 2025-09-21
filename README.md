@@ -26,7 +26,7 @@ n8n is often described as:
 👉 Think of it as a bridge between “no-code tools” (like Zapier) and “full custom coding.”
 
 ---
-Great 👍 Let’s move to the next part. Here’s **Page 2** for your GitHub README.
+
 
 ---
 
@@ -64,7 +64,7 @@ So, Jan built **n8n as open-source**, where anyone could:
 
 ---
 
-Perfect 🚀 Let’s keep building your README content. Here’s **Page 3** in simple English.
+
 
 ---
 
@@ -145,7 +145,7 @@ To understand n8n fully, you need to know its **core building blocks**. Don’t 
 
 ---
 
-Awesome 🙌 Let’s go deeper now. Here’s **Page 4** of your README draft.
+
 
 ---
 
@@ -222,7 +222,7 @@ That’s the secret sauce: a mix of simplicity for beginners, but deep flexibili
 
 ---
 
-Great 👍 Let’s continue. Here’s **Page 5** for your GitHub README.
+
 
 ---
 
@@ -300,7 +300,7 @@ One of the best things about n8n is that you can run it in **many different ways
 
 ---
 
-Perfect 👌 Let’s get practical now. Here’s **Page 6** of your README draft.
+
 
 ---
 
@@ -372,7 +372,7 @@ Now let’s see **how to actually build a workflow** in n8n with a simple exampl
 
 ---
 
-Great 🙌 Let’s move to the next part. Here’s **Page 7** for your README draft.
+
 
 ---
 
@@ -440,7 +440,6 @@ n8n is super flexible, which means people use it in **many different industries*
 
 ---
 
-Perfect 🚀 Let’s dive into the more powerful side of n8n. Here’s **Page 8** for your README draft.
 
 ---
 
@@ -521,7 +520,7 @@ So far, we’ve seen the basics. But n8n also comes with **advanced features** t
 👉 With these advanced features, you can build **complex automations** that are close to real programming, but still visual.
 
 ---
-Awesome 🙌 Here’s **Page 9** of your README draft.
+
 
 ---
 
@@ -585,7 +584,7 @@ There are many automation tools out there. So why use n8n instead of something e
 
 ---
 
-Perfect 🎉 Let’s wrap this series with the final part. Here’s **Page 10** for your README draft.
+
 
 ---
 

@@ -4,7 +4,7 @@
 n8n (pronounced as “n-eight-n”) is an **open-source workflow automation tool**. The name stands for **“nodemation”**, which comes from combining “node” and “automation.” Think of it like a toolbox where you can connect different apps, databases, and APIs together without needing to write long pieces of code.
 
 For example:
-
+ 
 * Imagine you get new customer data in Google Sheets.
 * You want that data to also go into your CRM (like HubSpot or Salesforce) and notify your Slack channel.
 * Normally, you’d need to write code or do manual work.
@@ -363,11 +363,6 @@ Now let’s see **how to actually build a workflow** in n8n with a simple exampl
 <img width="1460" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a460183-ae74-46ca-899b-fccb61521461" />
 
 <img width="2032" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccb8952e-52ee-4498-b02e-4d5e0018a7c8" />
-
-
-<img width="933" height="552" alt="image" src="https://github.com/user-attachments/assets/ef194ac6-348b-49a6-b758-6b4c18ed9da8" />
-
-<img width="640" height="246" alt="image" src="https://github.com/user-attachments/assets/0e199b7e-4e31-48b3-b75d-3e858f5ef590" />
 
 <img width="1102" height="522" alt="image" src="https://github.com/user-attachments/assets/a33cafe3-a067-4908-921d-e50d334e8d24" />
 
